@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/michu/Desktop/programowanko/robotarm/main.cpp
+GLUT/GLUT.h
+-
+stdlib.h
+-
+iostream
+-
+string.h
+-
+math.h
+-
+vector
+-
+iostream
+-
+time.h
+-
+

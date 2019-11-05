@@ -1,0 +1,4 @@
+/Users/michu/Desktop/programowanko/robotarm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/michu/Desktop/programowanko/robotarm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michu/Desktop/programowanko/robotarm/cmake-build-debug/CMakeFiles/opengl_projects.dir
+/Users/michu/Desktop/programowanko/robotarm/cmake-build-debug/CMakeFiles/robotarm.dir
